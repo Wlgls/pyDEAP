@@ -7,9 +7,9 @@
 
 2. Into pyDEAP and execute setup.py
 
-   ```
-   python setup.py install
-   ```
 ```
+   ```
+      python setup.py install
+   ```
 
  
